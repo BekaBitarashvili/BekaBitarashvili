@@ -7,7 +7,7 @@
 - 💬 Ask me about CSS
 - 📫 How to reach me: Instagram - @Beka_Bitara
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I really want to gain weight and I can't :)
+- ⚡ Fun fact: I really want to gain weight but I can't :)
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=BekaBitarashvili&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
