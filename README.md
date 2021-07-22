@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Backend
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about CSS
-- 📫 How to reach me: Instagram: @Beka_Bitara
+- 📫 How to reach me: Instagram - @Beka_Bitara
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I really want to gain weight and I can't :)
 -->
