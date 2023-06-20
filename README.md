@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/bbitarashvili" target="blank"><img src="https://img.shields.io/twitter/follow/bbitarashvili?logo=twitter&style=for-the-badge" alt="bbitarashvili" /></a> </p>
 
-- 🔭 I’m currently working on **flaskWeb**
+- 🔭 I’m currently working on **TechJobs**
 
-- 🌱 I’m currently learning **Python, Flask, SQL**
+- 🌱 I’m currently learning **Connection between Front & Back**
 
-- 👯 I’m looking to collaborate on **Backend**
+- 👯 I’m looking to collaborate on **Groundbreaking AI projects that push the boundaries of technology**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **AI**
 
 - 💬 Ask me about **CSS**
 
