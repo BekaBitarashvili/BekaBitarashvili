@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Connection between Front & Back**
 
-- 👯 I’m looking to collaborate on **Groundbreaking AI projects that push the boundaries of technology**
+- 👯 I’m looking to collaborate on **Groundbreaking AI projects**
 
 - 🤝 I’m looking for help with **AI**
 
