@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Beka Bitarashvili</h1>
-<h3 align="center">Hardworking Web Developer From Georgia</h3>
 
 <img align="right" alt="Code Photo" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
@@ -15,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **@Beka_Bitara**
 
