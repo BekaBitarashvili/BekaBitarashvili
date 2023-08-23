@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TechJobs**
 
-- 🌱 I’m currently learning **Connection between Front & Back**
+- 🌱 I’m currently learning **Test Automation**
 
 - 👯 I’m looking to collaborate on **Groundbreaking AI projects**
 
