@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Groundbreaking AI projects**
 
-- 🤝 I’m looking for help with **AI**
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **@Beka_Bitara**
