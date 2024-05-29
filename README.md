@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CODEMAMA**
 
-- 🌱 I’m currently learning **Test Automation (Selenium)**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Groundbreaking AI projects**
 
