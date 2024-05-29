@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bbitarashvili" target="blank"><img src="https://img.shields.io/twitter/follow/bbitarashvili?logo=twitter&style=for-the-badge" alt="bbitarashvili" /></a> </p>
 
-- 🔭 I’m currently working on **TechJobs**
+- 🔭 I’m currently working on **CODEMAMA**
 
 - 🌱 I’m currently learning **Test Automation (Selenium)**
 
